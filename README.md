@@ -2,13 +2,17 @@
 
 Mod that adds hard breathing sound below the dyspnea threshold level.
 
+**Warnings:**
+
+Unfortunately there is a problem right now with sound looping - it won't loop. I will try to find a solution.
+
 **How to install:**
 
 http://wiki.minetest.com/wiki/Installing_mods
 
 **Dependencies:**
 
-[minetest_wadsprint](https://github.com/aa6/minetest_wadsprint)
+- [minetest_wadsprint](https://github.com/aa6/minetest_wadsprint)
 
 **Credits:**
 
